@@ -1,0 +1,11 @@
+git init
+
+git add .
+
+git commit -m "Mensagem do commit"
+
+git branch -M main        -> agora o git já não usa master mas sim main... isto confirma isso
+
+git remote add origin git@github.com:seuusuario/seurepositorio.git    -> este link obter do SSH la no github repositorio criado
+
+git push -u origin main
