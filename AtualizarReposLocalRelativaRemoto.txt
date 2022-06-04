@@ -1,0 +1,5 @@
+como atualizar o repositório local em relação ao remoto
+
+git status
+
+git pull <nome do repositorio> <nome do branch>

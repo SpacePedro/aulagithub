@@ -1,0 +1,12 @@
+Não é permitido enviar um push se seu repositório local está atrasado em relação ao histórico do repositório remoto
+
+ex:
+githug:  e8aab78 --->  38k2ane ---> c9g57ef
+
+meu pc:  e8aab78 --->  38k2ane ---> a47gc29  ---> 33p8724
+
+
+temos que atualizar o repos local para fazer push:
+
+git pull <nome do remoto> <noem do branch>
+

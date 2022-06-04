@@ -1,0 +1,16 @@
+Voltar o projeto ao estado de um dado commit (deletar commit e alterações posteriores a esse commit)
+
+git status
+
+git reset --hard <codigo do commit>
+
+
+voltar o projeto ao estado do penultimo commit
+
+git status
+
+git reset --hard HEAD~1
+
+
+
+ATENÇÂO AÇÂO DESTRUTIVA

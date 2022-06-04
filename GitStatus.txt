@@ -1,0 +1,5 @@
+git reset - tira as coisas do stage após fazer $ git add .
+
+podemos guradar em stage somente alguns arquivos:
+git add nomedofile.something
+

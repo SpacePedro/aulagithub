@@ -1,0 +1,16 @@
+NOTA: temos que ter permissão
+
+git clone git@github.com:seuusuario/seurepositorio.git //buscar isto no SSH do gitHub repos
+
+cd "nomeda pasta seguinte começar e tab"
+
+code . (abre o VSCode ja dentro desta pasta)
+
+git add .
+
+git commit -m Mensagem explicativa"
+
+git log    -> apresenta versões já existentes e nova versão de commit feito (git log --oneline   -> apresenta de forma
+ resumida so uma linha é melhor este quando o projeto tem muitos commits)
+
+git push  (primeira vez de sempre: git push -u origin main)

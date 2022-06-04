@@ -1,0 +1,4 @@
+git push -f <nome do remote> <nome do branch>
+
+push force
+

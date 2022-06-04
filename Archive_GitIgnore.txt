@@ -1,0 +1,8 @@
+É um arquivo que indica o que NÂO deve ser salvo pelo Git.
+
+Geralmente o arquivo .gitignore fica salvo na pasta principal do repositório. 
+Mas também é possível salvar outros arquivos .gitignore em subpastas do repositório, 
+para indicar o que deve ser ignorado por cada subpasta.
+
+procurar no google o que estamos a fazer e o que ignorar.
+ex: .net gitgonre no google e aparece lá tudo

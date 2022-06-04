@@ -1,0 +1,8 @@
+Resolvendo conflitos:
+
+- Analisar codigo fonte
+
+- fazer edições necessarias
+
+- fazer novo commit
+

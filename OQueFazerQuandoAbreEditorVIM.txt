@@ -1,0 +1,16 @@
+Estas acções podem abrir o editor VIM no termial
+- Fazer um commit sem mensagem
+- Fazer um merge de 3 vias
+
+Habilitar Modo Edição:
+i
+
+Sair do VIM, slavando as alterações:
+<ESC>
+:wq
+<Enter>
+
+Sair do VIM, descartando as alterações:
+<ESc>
+:q!
+<ENTER>

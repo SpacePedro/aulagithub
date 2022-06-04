@@ -1,0 +1,3 @@
+git diff nomeitem.msmsms
+
+mostra o que foi alterado na console
